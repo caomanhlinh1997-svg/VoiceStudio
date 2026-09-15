@@ -2,3 +2,6 @@
 
 ## Baseline
 File này tạo trên nhánh practice/main.
+
+## Feature A
+Thêm dòng này trên nhánh practice/feature-fastforward.
